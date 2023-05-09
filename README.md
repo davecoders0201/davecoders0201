@@ -9,6 +9,7 @@ davecoders0201/davecoders0201 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
